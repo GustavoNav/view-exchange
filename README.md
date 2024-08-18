@@ -3,7 +3,7 @@
 ## Sobre
 Essa aplicação é uma visualização dos dados coletados com o [exchange_extractor](https://github.com/GustavoNav/exchange_extractor). O objetivo é demonstrar como uma boa infraestrutura de dados pode melhorar a tomada de decisões por meio de visualizações eficazes.
 
-Para testar a aplicação sem precisar instalar o repositório, acesse: [http://link_nao_criado](http://link_nao_criado)
+Para testar a aplicação sem precisar instalar o repositório, acesse: [https://view-exchange-tnthxryusub5cwfncvyhfn.streamlit.app/](https://view-exchange-tnthxryusub5cwfncvyhfn.streamlit.app/)
 
 ## 🔧 Como usar?
 
